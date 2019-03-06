@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>MKKP_ikon_akciók</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <circle cx="16" cy="16" r="16" style="fill: #fff"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M6.416,21.5,14.643,7.25a2,2,0,0,1,3.464,0L26.334,21.5a2,2,0,0,1-1.732,3H8.148A2,2,0,0,1,6.416,21.5Z" style="fill: #ed1c24;stroke: #000;stroke-linecap: square;stroke-miterlimit: 10"/>
+    <g>
+      <polygon points="14.875 11 17.875 11 17.375 18 15.375 18 14.875 11" style="fill: #fff"/>
+      <rect x="15.125" y="19.25" width="2.5" height="2.5" style="fill: #fff"/>
+    </g>
+  </g>
+</svg>

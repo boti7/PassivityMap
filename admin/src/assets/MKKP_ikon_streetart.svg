@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>MKKP_ikon_streetart</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <circle cx="16" cy="16" r="16" style="fill: #fff"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g>
+        <rect x="15" y="9" width="4" height="5" style="fill: #29abe2"/>
+        <path d="M19,9v4H16V9h3m1-1H15v6h5V8Z"/>
+      </g>
+      <g>
+        <path d="M12.5,16.469v-.5A3.634,3.634,0,0,1,16.272,12.5h2.456A3.634,3.634,0,0,1,22.5,15.969v.5Z" style="fill: #ccc"/>
+        <path d="M18.727,13A3.132,3.132,0,0,1,22,15.969H13A3.132,3.132,0,0,1,16.273,13h2.454m0-1H16.273A4.134,4.134,0,0,0,12,15.969v1H23v-1A4.134,4.134,0,0,0,18.727,12Z"/>
+      </g>
+      <g>
+        <rect x="12" y="17" width="10" height="12" style="fill: #29abe2"/>
+        <path d="M22,17V28H13V17h9m1-1H12V29H23V16Z"/>
+      </g>
+      <rect x="13" y="19" width="6" height="5" style="fill: #fff"/>
+      <circle cx="17" cy="10.5" r="1" style="fill: #fff"/>
+    </g>
+    <g>
+      <circle cx="5.688" cy="6.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="5.688" cy="8.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="5.688" cy="10.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="5.688" cy="12.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="5.688" cy="14.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="7.688" cy="7.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="7.688" cy="9.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="7.688" cy="11.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="7.688" cy="13.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="9.688" cy="8.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="9.688" cy="10.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="9.688" cy="12.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="11.688" cy="9.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="13.688" cy="10.5" r="0.5" style="fill: #29abe2"/>
+      <circle cx="11.688" cy="11.5" r="0.5" style="fill: #29abe2"/>
+    </g>
+  </g>
+</svg>

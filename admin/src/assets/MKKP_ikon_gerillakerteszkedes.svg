@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>MKKP_ikon_gerillakertészkedés</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <circle cx="16" cy="16" r="16" style="fill: #fff"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <polygon points="6.771 20 2.793 20 8 13.793 8 17.793 13.046 22.589 15.719 23.863 12.909 26.985 6.771 20" style="fill: #8cc63f"/>
+      <path d="M8,15v3l5,5,2,1-2,2L7,19H4l4-4m1-2.414L7.293,14.293l-4,4L1.586,20H6.54l5.7,6.651.7.82.763-.764,2-2,.981-.981-1.241-.62-1.855-.928L9,17.586v-5Z"/>
+    </g>
+    <g>
+      <polygon points="19 20 19 18 24 18 24 15 19 15 19 13 26 13 26 20 19 20" style="fill: #8cc63f"/>
+      <path d="M26,13v6H20V18h5V14H20V13h6m1-1H19v3h5v2H19v3h8V12Z"/>
+    </g>
+    <path d="M15,6.125c1.975.936,2.5,3,2.5,4.874v3" style="fill: none;stroke: #009245;stroke-linecap: square;stroke-miterlimit: 10"/>
+    <circle cx="15" cy="6" r="3" style="fill: #ed1c24"/>
+    <circle cx="15" cy="6.125" r="1.5" style="fill: #fbb03b"/>
+    <g>
+      <polygon points="12.472 29 13.345 13 21.655 13 22.528 29 12.472 29" style="fill: #8cc63f"/>
+      <path d="M21.091,13,22,28H13l.818-15H21m1.129-1H12.871l-.051.946-.819,15L11.944,29H23.056L23,27.946l-.819-15L22.129,12Z"/>
+    </g>
+  </g>
+</svg>
